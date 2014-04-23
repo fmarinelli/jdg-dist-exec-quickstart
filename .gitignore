@@ -1,0 +1,9 @@
+# Maven
+target
+# Usual temporary fles
+*.bck
+*.swp
+# Eclipse
+*.classpath
+*.project
+*.settings
