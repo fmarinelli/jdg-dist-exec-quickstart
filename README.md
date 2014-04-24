@@ -1,5 +1,5 @@
-Distributed Execution Framework
-===============================
+Distributed execution over JBoss Data Grid
+===========================================
 Author: Romain Pelisse
 Level: Intermediate
 Technologies: Infinispan, Dist Exec, Map Reduce
