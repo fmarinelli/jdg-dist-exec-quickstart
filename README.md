@@ -1,5 +1,5 @@
-remote-query: Use JDG remotely through Hotrod
-================================================
+Distributed Execution Framework
+===============================
 Author: Romain Pelisse
 Level: Intermediate
 Technologies: Infinispan, Dist Exec, Map Reduce
