@@ -32,13 +32,8 @@ All you need to build this project is Java 6.0 (Java SDK 1.6) or better, Maven 3
 
 The application this project produces is designed to be run on JBoss Data Grid 6.2
 
-Configure Maven
----------------
-
-If you have not yet done so, you must [Configure Maven](../../README.md#configure-maven) before testing the quickstarts.
-
-Configure JDG
--------------
+Install JDG
+-----------
 
 1. Obtain JDG library distribution on Red Hat's Customer Portal at https://access.redhat.com/jbossnetwork/restricted/listSoftware.html
 
